@@ -7,7 +7,7 @@
 ---
 Terdapat masalah "Yowza, that’s a lot of files. Try uploading fewer than 100 at a time.". Jadi saya men-rar-kan file agar tidak berantakan.
 File tugas saya juga dapat diakses melalui link berikut.
-> https://drive.google.com/drive/folders/1Qxc-Z_J38T2csLf4BVduVeKWBgONIWet?usp=drive_link
+> https://drive.google.com/drive/folders/1JlZvqVWFUnsOVJOKGAMdDKRFSDjsyj4u?usp=sharing
 
 > File seluruh tugas: https://drive.google.com/drive/folders/1Qxc-Z_J38T2csLf4BVduVeKWBgONIWet?usp=drive_link
 
